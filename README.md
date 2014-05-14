@@ -3,4 +3,4 @@ LivestreamManager
 
 Livestreamer.exe Stream manager
 
-More info will come..
+More info will come...
